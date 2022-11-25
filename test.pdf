@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Fri, 11 Nov 2022 16:21:32 GMT
+Content-Type: application/pdf
+Transfer-Encoding: chunked
+Connection: keep-alive
+CF-Ray: 76885c8fba94b0f1-ATL
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 659
+Cache-Control: max-age=31536000
+ETag: "839a7f8c9ba01f8cfe9d0a41c53df20c"
+Last-Modified: Tue, 26 Nov 2019 21:08:38 GMT
+Set-Cookie: __cf_bm=YT79A2_XcDhtCwkMgI67HgDcnIm2G13bKRPmvIaXbRQ-1668183692-0-AesHLqwZEJuvC62YfUieFbdykFqrOF+buOHlKYZo0xMM4Xa84giXvOb20BDBlpt8Dzs+RLVAKe7UlEcBMuWJgODKgXrh52TeEdo4c15Q5/UM; path=/; expires=Fri, 11-Nov-22 16:51:32 GMT; domain=.www.cloudflare.com; HttpOnly; Secure
+CF-Cache-Status: HIT
+Fetch-Time: 82
+Server-Timing: cf-q-config;dur=9.0000003183377e-06
+X-Amz-Cf-Pop: DFW56-P3
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FH4EmgyVqmw4zS31adYieenTzHOdkldePL9b4Ax4DAl%2FctNDzlItYoIaIKc4G4LmUdaRybxYEhJMUf63dDIRUqimU3sy5piNJlX9IZChM0uDM%2Fw0fUxevmSL%2Bg14c6DWmF%2FOoxok7sc84N08hiTV53BSKQiUnVdlZ7H5cjBJ3CKd"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+

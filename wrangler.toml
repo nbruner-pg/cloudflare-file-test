@@ -1,0 +1,6 @@
+name = "file-test"
+main = "src/index.ts"
+compatibility_date = "2022-11-11"
+kv_namespaces = [
+    { binding = "ghmc_kvpoc", id = "9405dd8cabed45c099a987bf8118d554", preview_id="f4af264ded0141a291f3441f2afb3fa3" }
+]
